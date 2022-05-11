@@ -1,5 +1,5 @@
 {
-    "name": "drive-searchbot",
+    "name": "drive-bypass",
     "description": "A Telegram bot for search file from your Google Drive",
     "logo": "https://telegra.ph/file/6507910fd06d18dfaba82.jpg",
     "keywords": [
@@ -7,7 +7,7 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/breakdowns/drive-searchbot",
+    "repository": "https://github.com/Madhan-Offi/drive-bypass",
     "website": "https://github.com/breakdowns",
     "success_url": "https://t.me/SlamDevs",
     "stack": "container",
